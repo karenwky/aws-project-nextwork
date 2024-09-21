@@ -1,5 +1,10 @@
 # aws-project-nextwork
-documentation archive for [NextWork AWS projects for beginners](https://community.nextwork.org/c/all-aws-projects/), 1 project completed. 
+Full archive for [NextWork AWS projects for beginners](https://community.nextwork.org/c/all-aws-projects/), 1 project completed. 
+
+* <b>AWS Services Used:</b> A list of the AWS services utilized in the project.
+* <b>Documentation:</b> A PDF file documenting what I have learned and accomplished throughout the project.
+* <b>LinkedIn Post:</b> A description of additional challenges I tackled, including innovative ideas that extended the project's scope and requirements.
+* <b>Project Tutorial:</b> A link to NextWork tutorial for detailed guidelines on how to build the same project.
 
 # Projects
 - [Host a Static Website on Amazon S3](https://github.com/karenwky/aws-project-nextwork/?tab=readme-ov-file#host-a-static-website-on-amazon-s3)
