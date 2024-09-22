@@ -3,7 +3,7 @@ Full archive for [NextWork AWS projects for beginners](https://community.nextwor
 
 * <b>AWS Services Used:</b> A list of the AWS services utilized in the project.
 * <b>Documentation:</b> A PDF file documenting what I have learned and accomplished throughout the project.
-* <b>LinkedIn Post:</b> A description of additional challenges I tackled, including innovative ideas that extended the project's scope and requirements.
+* <b>LinkedIn Post:</b> A description of the innovative ideas I've added to the project. Likes, comments, and feedback are welcome!
 * <b>Project Tutorial:</b> A link to NextWork tutorial for detailed guidelines on how to build the same project.
 
 # Projects
