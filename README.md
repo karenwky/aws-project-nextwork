@@ -1,5 +1,5 @@
 # aws-project-nextwork
-Full archive for [NextWork AWS projects for beginners](https://community.nextwork.org/c/all-aws-projects/), 2 projects completed. 
+Full archive for [NextWork AWS projects](https://community.nextwork.org/c/all-aws-projects-1959fd/), 2 projects completed. 
 
 * <b>AWS Services Used:</b> A list of the AWS services utilized in the project.
 * <b>Documentation:</b> A PDF file documenting what I have learned and accomplished throughout the project.
